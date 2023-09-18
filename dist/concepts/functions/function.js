@@ -67,7 +67,7 @@ console.log(name);
 function newName(...names) {
     console.log(names);
 }
-newName("laluprasath", "naveen");
+newName("laluprasath", "naveen"); //["laluprasath","naveen"]
 // -------------------------------------------------------------------------------------------------------------
 // returning array and object
 // object
